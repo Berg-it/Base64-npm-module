@@ -14,7 +14,7 @@
   ],
 "authors": [
   "Muhamed Amine Berguiga", "Muhamed Amine Berguiga <m.a.berguiga@gmail.com>"
-]  
+]  ,
 "ignore": [
     "node_modules",
     "bower_components",
